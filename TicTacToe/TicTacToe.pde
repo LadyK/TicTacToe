@@ -5,8 +5,9 @@ boolean checker;  //error-proofing
 CrnrContainer container = new CrnrContainer();
 int randy; //computer selection
 int times = 0;  //how many times the corners have been selected
-int q = 0;   //controls text
 String message;
+int q = 0;   //controls text
+
 
 PFont f;  //font for feedback
 
